@@ -33,7 +33,7 @@
 	      "route":"2016-07-02"
 	    },
 	    {
-	      "name":3,sourceNode":"模块3",
+	      "name":3,"sourceNode":"模块3",
 	      "destNode":"信息3",
 	      "route":"2016-07-02"
 	    },{
