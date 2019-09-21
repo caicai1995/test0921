@@ -1,71 +1,49 @@
 {
 	"total":10,
-	"data": [
-        {
-            "name": "1哈哈哈",
-            "sourceNode": "2北京",
-            "destNode": "3",
-            "route": "555啦啦啦-啦啦啦",
-        },
-        {
-            "name": "1哈哈哈",
-            "sourceNode": "2北京",
-            "destNode": "3",
-            "route": "555啦啦啦-啦啦啦",
-        },
-	"data": [
-        {
-            "name": "1哈哈哈",
-            "sourceNode": "2北京",
-            "destNode": "3",
-            "route": "555啦啦啦-啦啦啦",
-        },
-        {
-            "name": "1哈哈哈",
-            "sourceNode": "2北京",
-            "destNode": "3",
-            "route": "555啦啦啦-啦啦啦",
-        },
-	{
-            "name": "1哈哈哈",
-            "sourceNode": "2北京",
-            "destNode": "3",
-            "route": "555啦啦啦-啦啦啦",
-        },
-	{
-            "name": "1哈哈哈",
-            "sourceNode": "2北京",
-            "destNode": "3",
-            "route": "555啦啦啦-啦啦啦",
-        },
-	{
-            "name": "1哈哈哈",
-            "sourceNode": "2北京",
-            "destNode": "3",
-            "route": "555啦啦啦-啦啦啦",
-        },
-	{
-            "name": "1哈哈哈",
-            "sourceNode": "2北京",
-            "destNode": "3",
-            "route": "555啦啦啦-啦啦啦",
-        },
-	{
-            "name": "1哈哈哈",
-            "sourceNode": "2北京",
-            "destNode": "3",
-            "route": "555啦啦啦-啦啦啦",
-        },
-	{
-            "name": "1哈哈哈",
-            "sourceNode": "2北京",
-            "destNode": "3",
-            "route": "555啦啦啦-啦啦啦",
-        },
-	 {
-            "name": "1哈哈哈",
-            "sourceNode": "2北京",
-            "destNode": "3",
-            "route": "555啦啦啦-啦啦啦",
-        }]
+	"data":[{
+	      "name":10,"sourceNode":"模块10",
+	      "destNode":"信息10",
+	      "route":"2016-07-02"
+	    },
+	    {
+	      "name":9,"sourceNode":"模块9",
+	      "destNode":"信息9",
+	      "route":"2016-07-02"
+	    },{
+	      "name":8,"sourceNode":"模块8",
+	      "destNode":"信息8",
+	      "route":"2016-07-02"
+	    },
+	    {
+	      "name":7,"sourceNode":"模块7",
+	      "destNode":"信息7",
+	      "route":"2016-07-02"
+	    },{
+	      "name":6,"sourceNode":"模块6",
+	      "destNode":"信息6",
+	      "route":"2016-07-02"
+	    },
+	    {
+	      "name":5,"sourceNode":"模块5",
+	      "destNode":"信息5",
+	      "route":"2016-07-02"
+	    },{
+	      "name":4,"sourceNode":"模块4",
+	      "destNode":"信息4",
+	      "route":"2016-07-02"
+	    },
+	    {
+	      "name":3,sourceNode":"模块3",
+	      "destNode":"信息3",
+	      "route":"2016-07-02"
+	    },{
+	      "name":2,"sourceNode":"模块2",
+	      "destNode":"信息2",
+	      "route":"2016-07-02"
+	    },
+	    {
+	      "name":1,"sourceNode":"模块1",
+	      "destNode":"信息1",
+	      "route":"2016-07-02"
+	    }]
 }
